@@ -1,7 +1,7 @@
 <h1>Shaders</h1>
 
 <h2>1. Origem e Exemplos:</h2>
-<img src="./images/example_01.gif"  width="200">
+<br><img src="./images/example_01.gif"  width="200">
 <img src="./images/example_03.gif"  width="200">
 <img src="./images/example_02.gif"  width="200">
 <br>
@@ -9,8 +9,9 @@
 SSS<br><img src="./images/example_04.png"  width="200"><br>
 RayTracing<br><img src="./images/example_06.jpg"  width="200"><br>
 Raymarching<br><img src="./images/example_07.jpg"  width="200"><br>
+Tessellation<br><img src="./images/example_08.jpg"  width="200"><br>
 <br>
-<img src="./images/example_05.gif"  width="200"><br>
+2D<br><img src="./images/example_05.gif"  width="200"><br>
 
 <h2>2. Tipos</h2>
 
