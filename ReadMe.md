@@ -1,11 +1,14 @@
 <h1>Shaders</h1>
 
 <h2>1. Origem e Exemplos:</h2>
-<img src="./images/example_01.gif"  width="200"><br>
-<img src="./images/example_03.gif"  width="200"><br>
-<img src="./images/example_02.gif"  width="200"><br>
+<img src="./images/example_01.gif"  width="200">
+<img src="./images/example_03.gif"  width="200">
+<img src="./images/example_02.gif"  width="200">
 <br>
-<img src="./images/example_04.png"  width="200"><br>
+<br>
+SSS<br><img src="./images/example_04.png"  width="200"><br>
+RayTracing<br><img src="./images/example_06.jpg"  width="200"><br>
+Raymarching<br><img src="./images/example_07.jpg"  width="200"><br>
 <br>
 <img src="./images/example_05.gif"  width="200"><br>
 
@@ -23,7 +26,7 @@
 - Geometry <br>
     <img src="./images/geometry_texture.gif"  width="356" height="200">
   - Introduzido na DX10 ele itera não só sobre os vértices da malha como nos triangles e edges dando muito mais possibilidades.
-  - [Um detalhamento mais low level]
+  - Um detalhamento mais low level
     - "https://takinginitiative.wordpress.com/2011/01/12/directx10-tutorial-9-the-geometry-shader/"
 - Pixel
   - Usado em postprocessing sua funcionalidade é similar ao frag

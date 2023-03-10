@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Standard
-  m_Shader: {fileID: 4800000, guid: a5d4ae4f97b6b574982a691fa7166324, type: 3}
+  m_Name: HelloWorld
+  m_Shader: {fileID: 4800000, guid: ada9a7a40e763d548a53dd2776c11db0, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
