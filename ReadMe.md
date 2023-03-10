@@ -23,7 +23,8 @@
 - Geometry <br>
     <img src="./images/geometry_texture.gif"  width="356" height="200">
   - Introduzido na DX10 ele itera não só sobre os vértices da malha como nos triangles e edges dando muito mais possibilidades.
-  - [Um detalhamento mais low level]("https://takinginitiative.wordpress.com/2011/01/12/directx10-tutorial-9-the-geometry-shader/")
+  - [Um detalhamento mais low level]
+    - "https://takinginitiative.wordpress.com/2011/01/12/directx10-tutorial-9-the-geometry-shader/"
 - Pixel
   - Usado em postprocessing sua funcionalidade é similar ao frag
 
@@ -35,3 +36,4 @@
   - Matrizes, tudo em 3D usa matriz para se deslocar no espaço, é importante entender os conceitos básicos.
   - Funções e Gráficos, como shaders são basicamentes um monte de multiplicações que no final se tornam cor, saber interpretar um gráfico e entender como gerar uma forma a partir de uma função é vital.
   - Trigonometria e geometria analitica, games usa vetor para todo lado, mas diferente de quando se está desenvolvendo uma funcionalidade em um aplicativo, não podemos visualizar ou fazer um print nessa hora ter a base de trigonometria e geometria analitica pode ajudar muito.
+  - Para mais informações: https://thebookofshaders.com/
