@@ -20,8 +20,6 @@ Shader "Examples/HelloWorld"
                 float4 vertex : SV_POSITION;
             };
 
-            float4 _Color;
-
             v2f vert (appdata v)
             {
                 v2f o;
